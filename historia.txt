@@ -4,4 +4,4 @@ Soy Carlos y vivo en cordoba
 
 Mañana hablare de mi historia laboral
 
-Primer commit como colaborador
+Primer commit como colaborador en el desarrollo del proyecto
