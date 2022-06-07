@@ -2,6 +2,8 @@ Esta es una prueba del curso de git
 
 Soy Carlos y vivo en cordoba
 
+Ahora estoy colaborando en este proyecto
+
 Mañana hablare de mi historia laboral
 
 Primer commit como colaborador en el desarrollo del proyecto
